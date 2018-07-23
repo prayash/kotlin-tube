@@ -1,0 +1,45 @@
+{
+  "user": {
+    "id": 1,
+    "name": "Prayash Thapa",
+    "username": "prayasht"
+  },
+  "videos": [
+    {
+      "id": 1,
+      "name": "Ólafur Arnalds - Particles ft. Nanna Bryndís Hilmarsdóttir",
+      "link": "https://www.youtube.com/watch?v=wEj7xYyj9n4",
+      "imageUrl": "https://github.com/prayasht/kotlin-tube/raw/master/api/img/particles.jpg",
+      "numberOfViews": 2500000,
+      "channel": {
+        "name": "Ólafur Arnalds",
+        "profileImageUrl": "https://github.com/prayasht/kotlin-tube/raw/master/api/img/olafur.jpg",
+        "numberOfSubscribers": 100000
+      }
+    },
+    {
+      "id": 2,
+      "name": "Kiasmos - Full Performance (Live on KEXP)",
+      "link": "https://www.youtube.com/watch?v=4fHw4GeW3EU",
+      "imageUrl": "https://github.com/prayasht/kotlin-tube/raw/master/api/img/kiasmos.jpg",
+      "numberOfViews": 932000,
+      "channel": {
+        "name": "KEXP",
+        "profileImageUrl": "https://github.com/prayasht/kotlin-tube/raw/master/api/img/kexp.jpg",
+        "numberOfSubscribers": 100000
+      }
+    },
+    {
+      "id": 3,
+      "name": "Ólafur Arnalds - re:member",
+      "link": "https://www.youtube.com/watch?v=oAhO5eegMfY",
+      "imageUrl": "https://github.com/prayasht/kotlin-tube/raw/master/api/img/remember.jpg",
+      "numberOfViews": 280000,
+      "channel": {
+        "name": "Ólafur Arnalds",
+        "profileImageUrl": "https://github.com/prayasht/kotlin-tube/raw/master/api/img/olafur.jpg",
+        "numberOfSubscribers": 100000
+      }
+    }
+  ]
+}
